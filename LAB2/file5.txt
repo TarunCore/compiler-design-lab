@@ -1,0 +1,6 @@
+validIdentifier1 1234 56.78 _anotherValidIdentifier -123 +456 78.9e-10 Invalid-Id 45..67 89e+ 1E10
+const123 _validIdentifier _123_invalid 3.14159 3.14.159
+1234e10 1234e+10 1234e-10 .567 123.456e7 invalid.identifier
+__valid__ another_valid123 5.67E-8 -3.14E2
+validIdentifierWith123Numbers anotherInvalid-ID 1234e10.5 invalid.id
+34.5.4

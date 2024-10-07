@@ -1,0 +1,14 @@
+{
+    "files.associations": {
+        "iostream": "cpp",
+        "stdio.h": "c",
+        "ostream": "cpp",
+        "sstream": "cpp",
+        "fstream": "cpp",
+        "regex": "cpp",
+        "iosfwd": "cpp",
+        "unistd.h": "c",
+        "stdlib.h": "c",
+        "vector": "cpp"
+    }
+}

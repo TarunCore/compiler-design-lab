@@ -1,0 +1,10 @@
+{
+    int val1== 5.324;
+    int val2 += 7, arr[48]&=val1;
+    t2 = (a[2]+t1*6.5)/(a[2]-tl);
+    _count /= 6.3.3
+    new++;
+    inc--;
+    div//;
+    val2==+val1;
+}

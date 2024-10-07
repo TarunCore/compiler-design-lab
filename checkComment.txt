@@ -1,0 +1,7 @@
+{
+int a[3], t1, t2; t1 = 2;
+/* sample comment 1 */
+else {/* This is comment line 2*/}
+endif
+/* sample comment 3*/
+}
